@@ -10,7 +10,7 @@ Greetings! 👋 I'm Amine Ait Hamma, a first-year software engineering student d
 - 🤝 Committed to giving back through a history of volunteering.
 
 ## 🔧 Technologies & Tools
-
+![amineaith3's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineaith3&show_icons=true&theme=transparent)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineaith3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I've delved into various technologies, including:
