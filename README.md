@@ -16,8 +16,8 @@ Greetings! 👋 I'm Amine Ait Hamma, a first-year software engineering student d
 I've delved into various technologies, including:
 
 - Python
-- C
 - C++
+- C
 - Java
 - JavaScript
 
@@ -29,12 +29,12 @@ I've delved into various technologies, including:
 ## 🌐 Connect with Me
 
 - LinkedIn: [Amine Ait Hamma](https://www.linkedin.com/in/sakuun-aah/))
-- GitHub: [YourUsername](https://github.com/amineaith3/)
-- Twitter: [Your Twitter](twitter.com/sakuun_aah)
+- GitHub: [amineaith3](https://github.com/amineaith3/)
+- Twitter: [sakuun_aah](twitter.com/sakuun_aah)
 
 ## 📫 Get in Touch
 
-- Email: [Your Email](mailto:amineaithamma2004@gmail.com)
+- Email: [amineaithamma2004@gmail.com](mailto:amineaithamma2004@gmail.com)
 
 I'm always open to collaborations and ready to tackle intriguing challenges, especially those involving math and problem-solving.
 
